@@ -1,4 +1,3 @@
-# Vending-Machine
 # Vending Machine Using VHDL
 
 This repository contains a digital design project that implements a vending machine using VHDL. The system is modeled using a Finite State Machine (FSM) to simulate the behavior of a real vending machine that accepts coin inputs and dispenses a product once the required amount of money has been inserted.
